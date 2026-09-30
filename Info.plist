@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key><string>CmdQGuard</string>
+    <key>CFBundleIdentifier</key><string>local.codex.CmdQGuard.v4</string>
+    <key>CFBundleName</key><string>CmdQ Guard</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleIconFile</key><string>CmdQGuard.icns</string>
+    <key>CFBundleShortVersionString</key><string>4.0</string>
+    <key>CFBundleVersion</key><string>4</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>NSAppleEventsUsageDescription</key><string>Используется для защиты от случайного закрытия приложений сочетанием ⌘Q.</string>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+</dict>
+</plist>
